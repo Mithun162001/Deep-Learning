@@ -6,4 +6,5 @@ This repo is to maintain deep learning notebooks and references for further purp
 Sources being referred are:-
 * DeepLearning.AI
 * Pierian Data
+* Introduction to Deep Learning - MIT
 * Towards Data Science (medium blog site)
