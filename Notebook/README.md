@@ -8,4 +8,4 @@
 * Keras Basics
 * MNIST Digit Classifier
 * ANN - <i>both Regression and Classification</i>
-* CNN - <i>CIFAR10 dataset</i>
+* CNN - <i>MNIST digit</i>
