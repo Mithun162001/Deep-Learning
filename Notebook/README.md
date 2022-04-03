@@ -11,8 +11,9 @@
 * CNN - <i>MNIST digit</i>
 
 <h3>Future prospects:</h3>
-* CNN - CIFAR 10
-* CNN - Malaria disease classification
+
+* CNN - <i>CIFAR 10</i>
+* CNN - <i>Malaria disease classification</i>
 * RNN
 * RBM
 * Autoencoders
