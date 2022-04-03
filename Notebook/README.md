@@ -9,3 +9,10 @@
 * MNIST Digit Classifier
 * ANN - <i>both Regression and Classification</i>
 * CNN - <i>MNIST digit</i>
+
+<h3>Future prospects:</h3>
+* CNN - CIFAR 10
+* CNN - Malaria disease classification
+* RNN
+* RBM
+* Autoencoders
