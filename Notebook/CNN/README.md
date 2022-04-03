@@ -2,4 +2,5 @@ This repo contains notebooks based on Convolutional Neural Networks
 
 - CNN Classification Model (Dataset:- MNIST handwritten digit recognition)
 
-<img src="https://media.giphy.com/media/i4NjAwytgIRDW/giphy.gif">
+<img align="right" height="250px" src="https://c.tenor.com/C0AZ4iV9seYAAAAM/convolution-math.gif">
+
