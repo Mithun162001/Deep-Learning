@@ -3,5 +3,7 @@ This repo contains notebooks based on Convolutional Neural Networks
 
 
 - CNN Classification Model (Dataset:- MNIST handwritten digit recognition)
+- CNN Classification Model (Dataset:- CIFAR-10 dataset)
+- CNN Classification Model (Dataset:- Malaria classification (<i>custom images</i>))
 
 
