@@ -7,12 +7,14 @@
 * Tensorflow Basics
 * Keras Basics
 * MNIST Digit Classifier
-* ANN - <i>both Regression and Classification</i>
-* CNN - <i>MNIST digit</i>
-* CNN - <i>CIFAR 10</i>
-* CNN - <i>Malaria disease classification</i>
-* CNN - <i>Cats vs Dogs classification</i>
-* CNN - <i>Pneumonia disease classification </i>
+* ANN -
+     * <i>both Regression and Classification</i>
+* CNN - 
+    * <i>MNIST digit</i>
+    * <i>CIFAR 10</i>
+    * <i>Malaria disease classification</i>
+    * <i>Cats vs Dogs classification</i>
+    * <i>Pneumonia disease classification </i>
 
 <h3>Future prospects:</h3>
 
