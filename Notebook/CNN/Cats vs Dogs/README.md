@@ -5,6 +5,9 @@
 
 ## Table of Contents
 - [Tools](#Tools)
+- [Datasets](#Datasets)
+- [Dataset Hierarchy](#Dataset Hierarchy)
+- [Data Description](#Data Description)
 
 ## Tools :
 - ```Python```, ```Numpy```, ```Pandas```, ```Matplotlib```, ```Seaborn```, ```Scikit-learn```, ```Tensorlow & Keras```, ```openCV```
@@ -35,4 +38,4 @@
 The training archive contains 25,000 images of dogs and cats. Train your algorithm on these files and predict the labels for test1.zip (1 = dog, 0 = cat).
 
 
-## THANKS TO KAGGLE FOR PROVIDING THIS DATASET
+<h3><i>THANKS TO KAGGLE FOR PROVIDING THIS DATASET
