@@ -4,10 +4,13 @@
 <img src="https://storage.googleapis.com/kaggle-competitions/kaggle/3362/media/woof_meow.jpg">
 
 ## Table of Contents
-- [Tools](#Tools)
-- [Datasets](#Datasets)
-- [Dataset Hierarchy](#Dataset Hierarchy)
-- [Data Description](#Data Description)
+- Tools
+
+- Datasets
+
+- Dataset Hierarchy
+
+- Data Description
 
 ## Tools :
 - ```Python```, ```Numpy```, ```Pandas```, ```Matplotlib```, ```Seaborn```, ```Scikit-learn```, ```Tensorlow & Keras```, ```openCV```
