@@ -8,7 +8,9 @@
 * Keras Basics
 * MNIST Digit Classifier
 * ANN -
-     * <i>both Regression and Classification</i>
+     * <i>basic Regression and Classification</i>
+     * <i>MNIST Fashion</i>
+     * <i>Cancer Classification</i>
 * CNN - 
     * <i>MNIST digit</i>
     * <i>CIFAR 10</i>
