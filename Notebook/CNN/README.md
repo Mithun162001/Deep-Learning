@@ -7,5 +7,7 @@ This repo contains notebooks based on Convolutional Neural Networks
     - Malaria classification <i>custom images</i>
     - Cats vs Dogs classification
     - Pneumonia classification <i>custom images</i>
+    - Brain Tumor Detection
+    - COVID-19 Detection
 
 
