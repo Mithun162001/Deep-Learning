@@ -17,9 +17,12 @@
     * <i>Malaria disease classification</i>
     * <i>Cats vs Dogs classification</i>
     * <i>Pneumonia disease classification </i>
+    * <i>Brain tumoe detection</i>
+    * <i>COVID-19 detection</i>
+ * RNN & LSTM -
+    * <i>Sine wave forecasting</i>
 
 <h3>Future prospects:</h3>
 
-* RNN
-* RBM
 * Autoencoders
+* Generative Adverserial Networks
