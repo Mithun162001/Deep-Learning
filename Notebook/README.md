@@ -19,7 +19,7 @@
     * <i>Malaria disease classification</i>
     * <i>Cats vs Dogs classification</i>
     * <i>Pneumonia disease classification </i>
-    * <i>Brain tumoe detection</i>
+    * <i>Brain tumor detection</i>
     * <i>COVID-19 detection</i>
     <img align="right" height="250px" width="500px" src="https://miro.medium.com/max/720/1*goJVQs-p9kgLODFNyhl9zA.gif">
 
@@ -31,3 +31,5 @@
 
 * Autoencoders
 * Generative Adverserial Networks
+* Transformers
+* NLP
