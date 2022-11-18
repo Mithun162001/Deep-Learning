@@ -25,6 +25,7 @@
 
  * RNN & LSTM -
     * <i>Sine wave forecasting</i>
+    * <i>Forecasting on a sales - time series data</i>
 
 <h3>Future prospects:</h3>
 
