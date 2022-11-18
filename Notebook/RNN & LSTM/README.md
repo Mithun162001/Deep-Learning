@@ -3,6 +3,6 @@ This repo contains notebooks based on Reccurent Neural Networks and LSTM
 
 - RNN and LSTM MODELS :
     - On sine wave forecasting problem
-    -
+    - Forecasting on a Sales time series data
 
 
