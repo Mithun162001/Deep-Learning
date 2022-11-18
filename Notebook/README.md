@@ -2,7 +2,7 @@
 <img align="right" alt="GIF" height="250px" width="500px" src="https://media.giphy.com/media/26xBtSyoi5hUUkCEo/giphy.gif" />
 
 
-<h3>Topics covered:</h3>
+<h3>Topics covered:</h3> <i>Implemented in Tensorflow 2</i>
 
 * Manual Neural Network
 * Tensorflow Basics
