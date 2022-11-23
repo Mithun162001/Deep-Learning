@@ -26,10 +26,13 @@
  * RNN & LSTM -
     * <i>Sine wave forecasting</i>
     * <i>Forecasting on a sales - time series data</i>
+   
+ * AUTOENCODERS -
+    * <i>Dimensionality reduction using Autoencoders</i>
 
 <h3>Future prospects:</h3>
 
-* Autoencoders
+*     * <i>Noise Removal using Autoencoders</i>
 * Generative Adverserial Networks
 * Transformers
 * NLP
